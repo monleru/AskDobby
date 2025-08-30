@@ -343,16 +343,10 @@ Follow me on X for updates, AI insights, and more exciting projects! 🚀
 ## 📞 Support & Community
 
 - **Live Bot**: [@askDobbybot](https://t.me/askDobbybot) - Try it now!
-- **Issues**: [GitHub Issues](https://github.com/your-username/sentimentAI/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/sentimentAI/discussions)
-- **Documentation**: [Wiki](https://github.com/your-username/sentimentAI/wiki)
-- **Community**: Join our developer community for support and collaboration
 
 ---
 
 <div align="center">
-
-**Built with ❤️ by the Sentient AI Team**
 
 [![GitHub Stars](https://img.shields.io/github/stars/your-username/sentimentAI?style=social)](https://github.com/your-username/sentimentAI)
 [![GitHub Forks](https://img.shields.io/github/forks/your-username/sentimentAI?style=social)](https://github.com/your-username/sentimentAI)
