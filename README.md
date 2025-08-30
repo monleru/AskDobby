@@ -327,13 +327,6 @@ CMD ["npm", "start"]
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **[Telegraf.js](https://telegraf.js.org/)** - Excellent Telegram Bot framework
-- **[Fireworks AI](https://console.fireworks.ai/)** - Powerful AI infrastructure
-- **[Sentient Foundation](https://huggingface.co/SentientAGI)** - Revolutionary Dobby models
-- **[OpenAI](https://openai.com/)** - GPT API inspiration and standards
-
 ## 👨‍💻 Creator
 
 **Created with passion by [@Monleru](https://x.com/Monleru)**
